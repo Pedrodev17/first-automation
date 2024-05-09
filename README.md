@@ -1,2 +1,2 @@
 # first-automation
-Minha primera automação feita em Python ! 
+Minha primeira automação feita em Python ! 
